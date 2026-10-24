@@ -1,0 +1,26 @@
+[
+  {
+    "file": "hong-kong.jpg",
+    "source": "https://unsplash.com/photos/d4CmHKZ_JRw",
+    "author": "Manson",
+    "license": "https://unsplash.com/license",
+    "bytes": 267390,
+    "note": "Illustrative photography, not actual hotel listing"
+  },
+  {
+    "file": "room-one.jpg",
+    "source": "https://unsplash.com/photos/T6WRDVQBn8M",
+    "author": "Wes Hicks",
+    "license": "https://unsplash.com/license",
+    "bytes": 180272,
+    "note": "Illustrative photography, not actual hotel listing"
+  },
+  {
+    "file": "room-two.jpg",
+    "source": "https://unsplash.com/photos/pe1xVjJJlE4",
+    "author": "Tran Vinh",
+    "license": "https://unsplash.com/license",
+    "bytes": 243432,
+    "note": "Illustrative photography, not actual hotel listing"
+  }
+]

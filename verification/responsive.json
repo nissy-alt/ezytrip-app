@@ -1,0 +1,107 @@
+[
+  {
+    "route": "/",
+    "brokenImages": 0,
+    "heading": "ทริปนี้ ไปด้วยกัน.",
+    "scrollWidth": 360,
+    "width": 360
+  },
+  {
+    "route": "/search",
+    "brokenImages": 0,
+    "heading": "หาที่พักที่ใช่",
+    "scrollWidth": 360,
+    "width": 360
+  },
+  {
+    "route": "/stays",
+    "brokenImages": 0,
+    "heading": "พักใกล้ทริปของคุณ",
+    "scrollWidth": 360,
+    "width": 360
+  },
+  {
+    "route": "/stay/harbour",
+    "brokenImages": 0,
+    "heading": "รายละเอียดที่พัก",
+    "scrollWidth": 360,
+    "width": 360
+  },
+  {
+    "route": "/trip",
+    "brokenImages": 0,
+    "heading": "ฮ่องกงของเรา.",
+    "scrollWidth": 360,
+    "width": 360
+  },
+  {
+    "route": "/",
+    "brokenImages": 0,
+    "heading": "ทริปนี้ ไปด้วยกัน.",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/search",
+    "brokenImages": 0,
+    "heading": "หาที่พักที่ใช่",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/stays",
+    "brokenImages": 0,
+    "heading": "พักใกล้ทริปของคุณ",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/stay/harbour",
+    "brokenImages": 0,
+    "heading": "รายละเอียดที่พัก",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/trip",
+    "brokenImages": 0,
+    "heading": "ฮ่องกงของเรา.",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/",
+    "brokenImages": 0,
+    "heading": "ทริปนี้ ไปด้วยกัน.",
+    "scrollWidth": 1280,
+    "width": 1280
+  },
+  {
+    "route": "/search",
+    "brokenImages": 0,
+    "heading": "หาที่พักที่ใช่",
+    "scrollWidth": 1280,
+    "width": 1280
+  },
+  {
+    "route": "/stays",
+    "brokenImages": 0,
+    "heading": "พักใกล้ทริปของคุณ",
+    "scrollWidth": 1280,
+    "width": 1280
+  },
+  {
+    "route": "/stay/harbour",
+    "brokenImages": 0,
+    "heading": "รายละเอียดที่พัก",
+    "scrollWidth": 1280,
+    "width": 1280
+  },
+  {
+    "route": "/trip",
+    "brokenImages": 0,
+    "heading": "ฮ่องกงของเรา.",
+    "scrollWidth": 1280,
+    "width": 1280
+  }
+]

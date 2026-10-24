@@ -1,0 +1,35 @@
+[
+  {
+    "command": [
+      "pnpm",
+      "exec",
+      "prettier",
+      "--check",
+      "src/App.jsx",
+      "src/domain.js",
+      "src/data.js",
+      "src/styles.css",
+      "tests/domain.test.mjs",
+      "index.html"
+    ],
+    "exit_code": 0,
+    "output": "Checking formatting...\nAll matched files use Prettier code style!\n"
+  },
+  {
+    "command": [
+      "pnpm",
+      "run",
+      "build"
+    ],
+    "exit_code": 0,
+    "output": "vite v6.4.2 building for production...\ntransforming...\n\u2713 1581 modules transformed.\nrendering chunks...\ncomputing gzip size...\ndist/client/index.html                   0.61 kB \u2502 gzip:  0.40 kB\ndist/client/assets/index-BEywRQ9L.css   22.55 kB \u2502 gzip:  5.44 kB\ndist/client/assets/index-uQG6hU_C.js   252.45 kB \u2502 gzip: 75.99 kB\n\u2713 built in 821ms\nPrepared Sites build: dist/server/index.js and dist/.openai/hosting.json\n$ vite build && node scripts/prepare-sites-build.mjs\n"
+  },
+  {
+    "command": [
+      "pnpm",
+      "test"
+    ],
+    "exit_code": 0,
+    "output": "\u2714 trip nights and invalid order (0.321833ms)\n\u2714 meal conserves cents with unequal rounding (0.3745ms)\n\u2714 fees and selected participants (0.12475ms)\n\u2714 reject invalid inputs (0.395084ms)\n\u2714 partial repayment reduces debt rather than adding expense (0.066875ms)\n\u2714 budget units consider rooms guests nights (0.046167ms)\n\u2714 serves existing static assets without a fallback (11.125166ms)\n\u2714 falls back to index.html for an unknown app route (0.535834ms)\n\u2714 does not turn missing API or write requests into the app shell (0.2455ms)\n\u2714 emits the files required by Sites packaging (1.618625ms)\n\u2139 tests 10\n\u2139 suites 0\n\u2139 pass 10\n\u2139 fail 0\n\u2139 cancelled 0\n\u2139 skipped 0\n\u2139 todo 0\n\u2139 duration_ms 47.775334\n$ node --test tests/domain.test.mjs tests/sites-worker.test.mjs\n"
+  }
+]
